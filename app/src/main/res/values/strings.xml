@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Gebeya</string>
+
+    <string name="facebook_app_id">143915444161849</string>
+    <string name="fb_login_protocol_scheme">fb143915444161849</string>
+    <string name="navigation_drawer_open">Open navagation drawer</string>
+    <string name="navigation_drawer_close">Close navagation drawer</string>
+    <string name="about">    Thank you for using our Gebeya app.  When you buy from Gebeya App
+        you can be assured of the application\'s privacy policy.\n\n 1. First
+        Sign up for a new account,\n 2. then log into the application, please select
+        Go to the menu bar on the left side of the screen, \n3. select Profile and add more information
+        with 2 security questions. \n\nWhen you forget your password, there are 2 ways to recover it.\n\n
+        \nMethod 1: Go to the "Forgot your password?" At the login screen, select Use security question
+        to reset your password, then enter your phone number and 2 security questions
+        has been set to regenerate a new password.\n
+        \nMethod 2: Go to the "Forgot your password?" At the login screen, select Use Email to retrieve your password
+
+        \n\nThe App is Developed By Abenezer Tamirat and Sarem Tadele</string>
+</resources>
