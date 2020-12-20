@@ -101,7 +101,7 @@ class ProductByCategoryActivity : AppCompatActivity() {
         })
 
         var intent = intent
-        cateName = intent.getStringExtra("cateName") // Get from ProductByCategoryActivity
+        cateName = intent.getStringExtra("cateName").toString() // Get from ProductByCategoryActivity
         products = ArrayList()
         setRecyclerProduct(products)
         getDataProduct(Server.getProductByCategory, cateName, products, adapter)
