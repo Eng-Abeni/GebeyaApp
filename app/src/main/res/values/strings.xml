@@ -1,8 +1,8 @@
 <resources>
     <string name="app_name">Gebeya</string>
 
-    <string name="facebook_app_id">143915444161849</string>
-    <string name="fb_login_protocol_scheme">fb143915444161849</string>
+    <string name="facebook_app_id">00000000000000</string>
+    <string name="fb_login_protocol_scheme">fb000000000000000</string>
     <string name="navigation_drawer_open">Open navagation drawer</string>
     <string name="navigation_drawer_close">Close navagation drawer</string>
     <string name="about">    Thank you for using our Gebeya app.  When you buy from Gebeya App
